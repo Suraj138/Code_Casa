@@ -28,7 +28,7 @@ To run the Analog Clock project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-   git clone -----------------------
+   git clone --------your repositry clone url---------------
 ```
 
 2. Navigate to the project directory:
@@ -38,10 +38,6 @@ To run the Analog Clock project locally, follow these steps:
 ```
 
 3. Open the index.html file in your preferred web browser.
-
-## :clapper: Demo
-
-You can see a live demo of the Analog Clock project [here](url diploy -----------------).
 
 ## :handshake: Contributing
 
